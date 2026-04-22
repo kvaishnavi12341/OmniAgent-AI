@@ -273,6 +273,32 @@ someone is attacking me with knife
 
 ---
 
+## 🖥️ Streamlit UI Demo
+
+## 🔹 Application Interface
+
+<img width="953" height="187" alt="input" src="https://github.com/user-attachments/assets/6ea87488-3da3-4c0b-bbf3-ce15239def5d" />
+
+
+
+
+## 🔹 Response Output
+
+<img width="941" height="409" alt="image" src="https://github.com/user-attachments/assets/6475c90d-3879-4529-8e50-afa5445ce49e" />
+
+
+## 🔹 Critical Incident (P1 Alert)
+
+## Slack alert:
+
+<img width="641" height="59" alt="image" src="https://github.com/user-attachments/assets/de52bdae-13db-4e68-b8ae-4ca0896c9da1" />
+
+## Gmail alert:
+
+<img width="658" height="128" alt="image" src="https://github.com/user-attachments/assets/1edf5eda-fc76-4a48-ba8e-275e4e11a4e4" />
+
+
+
 ## 🧠 Design Approach
 
 This system follows a **hybrid architecture**:
