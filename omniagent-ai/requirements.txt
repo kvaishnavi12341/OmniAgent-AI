@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+
+transformers
+torch
+
+openai-whisper
+
+pymupdf

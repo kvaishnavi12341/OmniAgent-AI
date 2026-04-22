@@ -1,0 +1,25 @@
+{"text": "Someone is attacking with a knife", "severity": "P1"}
+{"text": "Hello", "severity": "P3"}
+{"text": "someone is attacking me with knife", "severity": "P1"}
+{"text": "Hello", "severity": "P3"}
+{"text": "someone is attacking me with knife", "severity": "P1"}
+{"text": "someone is behind me with knife ", "severity": "P1"}
+{"text": "Hello", "severity": "P3"}
+{"text": "Hello", "severity": "P3"}
+{"text": "someone is attacking me with knife", "severity": "P1"}
+{"text": "weather is nice", "severity": "P3"}
+{"text": "someone is attacking with knife", "severity": "P1"}
+{"text": "Hello,weather is nice today,im from mumbai,India", "severity": "P3"}
+{"text": "suspicious activity near my house", "severity": "P2"}
+{"text": "im feeling uneasy today and pain in body i fell of taking medicine and visit doctor,also pain is severe,im from mumbai", "severity": "P1"}
+{"text": "Hello", "severity": "P3"}
+{"text": "CPU Utilization is 100%", "severity": "P3"}
+{"text": "cpu utilization is above the threshold", "severity": "P2"}
+{"text": "Drive space in server has 4% free space", "severity": "P3"}
+{"text": "Drive space in server has only 4% free space", "severity": "P3"}
+{"text": "Drive space in the server has 4% free space", "severity": "P3"}
+{"text": "Drive space in the server has only 4% free space", "severity": "P3"}
+{"text": "someone is attacking me with knife", "severity": "P3"}
+{"text": "weather is nice", "severity": "P3"}
+{"text": "Disk space in the server has 0% free space", "severity": "P2"}
+{"text": "im feeling uneasy today and pain in body i fell of taking medicine and visit doctor,also pain is severe,im from mumbai", "severity": "P1"}

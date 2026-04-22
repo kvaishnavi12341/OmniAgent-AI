@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+gitcommands.txt
+list_of_files.py
+mergerfiles.py
+steps.txt
+steps1.txt
+summary.txt
+flowdiagram_architecture.txt
+ai_multimodel_detection_env/
