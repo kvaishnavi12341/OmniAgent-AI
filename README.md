@@ -304,16 +304,6 @@ This system follows a **hybrid architecture**:
 
 ---
 
-## 💡 Interview Talking Points
-
-* Designed multi-agent architecture  
-* Integrated LLM into backend pipeline  
-* Built real-time alerting system  
-* Implemented RBAC + rate limiting  
-* Created end-to-end incident pipeline  
-
----
-
 ## 👨‍💻 Author
 
 Kvaishnavi  
