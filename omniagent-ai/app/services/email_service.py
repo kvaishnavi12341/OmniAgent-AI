@@ -24,9 +24,9 @@ class EmailService:
 
         except Exception as e:
             print("EMAIL ERROR:", e)
-print("EMAIL_USER:", settings.EMAIL_USER)
-print("EMAIL_PASS:", settings.EMAIL_PASS)
-print("EMAIL_TO:", settings.EMAIL_TO)
+#print("EMAIL_USER:", settings.EMAIL_USER)
+#print("EMAIL_PASS:", settings.EMAIL_PASS)
+#print("EMAIL_TO:", settings.EMAIL_TO)
 '''
 import smtplib
 from app.config import settings
